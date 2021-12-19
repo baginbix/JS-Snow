@@ -15,7 +15,7 @@ setInterval(() => {
             i--;
         }
     }
-}, 1./60.);
+}, 1./60. );
 
 function spawnSnow(){
     let snowFlake = document.createElement("div");
